@@ -14,11 +14,11 @@ const questions = [
 		question: 'HTML nima?',
 		answers: [
 			"Dasturlash tili",
-      "Belgilash tili",
+      "Tuzilish tili",
       "Database",
       "Operatsion sistema"
 		],
-		correctAnswer: 'Belgilash tili'
+		correctAnswer: 'Tuzilish tili'
 	},
 
 	{
